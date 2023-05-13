@@ -10,7 +10,7 @@ VDAS aims to utilize Deep Learning to help authorities and organizations to easi
 
 VDAS provides the management capabilities for roles, cameras, areas, managers, staff, as well as the capabilities to detect face mask and social distancing violations, and generates relevant reports.
 
-VDAS makes use of the [YOLOv5](https://github.com/ultralytics/yolov5) object detection model, with specific focus on dealing with complex conditions (low-light conditions, crowded areas). The final product consists of 2 major parts: The web application, and the trained YOLOv5 model.
+VDAS makes use of the [YOLOv5](https://github.com/ultralytics/yolov5) object detection model, with specific focus on dealing with low-light conditions using a proposed version of Local Binary Pattern - Sigmoid Local Pattern. The final product consists of 2 major parts: The web application, and the trained YOLOv5 model.
 
 ## 📝 VDAS Features
 -  Detect face mask/social distancing violations from image/video/camera stream
