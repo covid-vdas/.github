@@ -1,14 +1,16 @@
-# COVID Violation Detection Assistance System (VDAS)
+# COVID-19 Violation Detection Assistance System (VDAS)
 
 **Full Project Name:** AI-integrated Surveillance System to Support Detecting Social Distancing & Face Mask Violations. 
 
 ## 🙋‍♂️ Introduction 
- 
-**COVID Violation Detection Assistance System** (VDAS) aims to utilize Deep Learning to help authorities and organizations to easier manage, delineate pre-defined areas with the most COVID-19 violations (social distancing and face mask), and take preemptive actions.  
+
+**COVID-19 Violation Detection Assistance System** (VDAS) is a graduation/capstone project done by a 4-student group majored in Software Engineering at Can Tho FPT University. 
+
+VDAS aims to utilize Deep Learning to help authorities and organizations to easier manage, delineate pre-defined areas with the most COVID-19 violations (social distancing and face mask), and take preemptive actions.  
 
 VDAS provides the management capabilities for roles, cameras, areas, managers, staff, as well as the capabilities to detect face mask and social distancing violations, and generates relevant reports.
 
-VDAS makes use of the [YOLOv5](https://github.com/ultralytics/yolov5) object detection model, with specific focus on dealing with complex conditions (low-light conditions, crowded areas). The final product consists of 2 major parts: Web application, and the trained YOLOv5 model.
+VDAS makes use of the [YOLOv5](https://github.com/ultralytics/yolov5) object detection model, with specific focus on dealing with complex conditions (low-light conditions, crowded areas). The final product consists of 2 major parts: The web application, and the trained YOLOv5 model.
 
 ## 📝 VDAS Features
 -  Detect face mask/social distancing violations from image/video/camera stream
@@ -21,24 +23,12 @@ VDAS makes use of the [YOLOv5](https://github.com/ultralytics/yolov5) object det
 
 ## 🧑‍💻 Repository Contributions
 - [mafia-web](https://github.com/covid-vdas/mafia-web): &nbsp;Minh Thắng
-- [mafia-api](https://github.com/covid-vdas/mafia-api): &nbsp;&nbsp;&nbsp;Minh Thắng, Huy
+- [mafia-api](https://github.com/covid-vdas/mafia-api): &nbsp;&nbsp;&nbsp;Minh Thắng, Quang Huy
 - [mafia-ai](https://github.com/covid-vdas/mafia-ai): &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Đức Lộc
 - [mafia-detector](https://github.com/covid-vdas/mafia-detector): Hoàng Phúc
 
+## 📄 VDAS Document
+[Capstone Project Document](https://drive.google.com/file/d/15A87W20kypxVLGEYhTxDyhNGvkQBKja_/view?usp=sharing)  
 
-
-
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
-
+**NOTE**: Some files' URLs are inaccessible due to being stored on terminated Edu Accounts.
 
