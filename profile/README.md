@@ -14,8 +14,8 @@ VDAS makes use of the [YOLOv5](https://github.com/ultralytics/yolov5) object det
 
 ## 📝 VDAS Features
 -  Detect face mask/social distancing violations from image/video/camera stream
--  Manage Areas, Cameras, Roles, Managers, Staff
--  Export violation rate/specific violation case report
+-  Manage areas, cameras, roles, managers, and staff
+-  Export violation rate/specific violation case reports
 
 ## 📰 Supporting Publications
 - [Sigmoid Local Pattern for Robust Car and Pedestrian Detection](https://link.springer.com/chapter/10.1007/978-3-030-97610-1_43)  
