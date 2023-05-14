@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ Introduction 
 
-**COVID-19 Violation Detection Assistance System** (VDAS) is a graduation/capstone project done by a 4-student group majored in Software Engineering at Can Tho FPT University. 
+**COVID-19 Violation Detection Assistance System** (VDAS) is a graduation/capstone project done by a 4-student group (Professor Mafia) majored in Software Engineering at Can Tho FPT University. 
 
 VDAS aims to utilize Deep Learning to help authorities and organizations to easier manage, delineate pre-defined areas with the most COVID-19 violations (social distancing and face mask), and take preemptive actions.  
 
